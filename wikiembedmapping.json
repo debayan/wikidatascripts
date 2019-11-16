@@ -1,0 +1,1 @@
+{"wikidataembedsindex01": {"mappings": {"records": {"properties": {"key": {"type": "keyword"},"embedding": {"index": false}}}}}}

@@ -1,0 +1,1 @@
+{"wikidataentitypairrelationlabels01": {"mappings": {"records": {"properties": {"uripair": {"type": "keyword"}, "relationuri": {"type": "keyword"},"relationlabels": {"type": "text","index_options": "docs","analyzer": "english"}}}}}}
